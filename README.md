@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bobur Nurullahonov
+- 👋 Hi, I’m Bo
 - 👀 I’m interested in learning how to develop websites
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on coding
